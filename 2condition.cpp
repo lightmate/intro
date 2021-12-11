@@ -2,6 +2,8 @@
 using namespace std;
 
 int main(){
+
+    cout<<"This is my first sample flok project"<<endl;
 /*
     cout<<"How much buget do I have?\n";
     int buget ,choice;
