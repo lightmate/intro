@@ -1,2 +1,2 @@
-This just for reading purposes 
-and nothing more
+This is a intro project file
+and this will not do anything
